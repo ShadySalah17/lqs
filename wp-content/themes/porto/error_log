@@ -1,0 +1,26 @@
+[21-Apr-2020 20:05:10 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[21-Apr-2020 20:05:10 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[21-Apr-2020 15:05:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/mostafa/public_html/site-review.tk/wady/wp-content/themes/porto/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home1/mostafa/public_html/site-review.tk/wady/wp-content/themes/porto/index.php on line 1
+[06-May-2020 15:36:12 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lqsorgsa/public_html/wp-content/themes/porto/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lqsorgsa/public_html/wp-content/themes/porto/index.php on line 1
+[08-Jun-2020 00:42:54 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lqsorgsa/public_html/wp-content/themes/porto/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lqsorgsa/public_html/wp-content/themes/porto/404.php on line 1
+[17-Aug-2020 13:08:49 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Call to undefined function porto_meta_default_layout() in /home/lqsorgsa/public_html/wp-content/themes/porto/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/lqsorgsa/public_html/wp-content/themes/porto/footer.php on line 4

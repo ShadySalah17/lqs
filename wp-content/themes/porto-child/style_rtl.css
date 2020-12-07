@@ -1,0 +1,346 @@
+/* fonts */
+
+@font-face {
+    font-family: 'cairo';
+    src: url('fonts/Cairo-Regular.woff2') format('woff2'),
+        url('fonts/Cairo-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'cairo-b';
+    src: url('fonts/Cairo-Bold.woff2') format('woff2'),
+        url('fonts/fonts/fonts/Cairo-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+body,
+p,
+span,
+a,
+td,
+th,
+label,
+button,
+li,
+input,
+textarea {
+    font-family: 'cairo' !important;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 17px;
+    line-height: 35px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'cairo' !important;
+    letter-spacing: normal !important;
+}
+
+#wpadminbar .ab-icon,
+#wpadminbar .ab-item:before,
+#wpadminbar>#wp-toolbar>#wp-admin-bar-root-default .ab-icon,
+.wp-admin-bar-arrow {
+    font: normal 20px/1 dashicons !important;
+}
+
+/* end fonts */
+
+
+ul#menu-top-navigation a {
+    font-size: 16px !important;
+    padding: 5px 20px !important;
+    font-weight: 300 !important;
+}
+
+.donate-top a {
+    background: #dbd4a0 !important;
+    border-radius: 0 9px 9px 0 !important;
+    transition: 0.5s all ease-in-out;
+    border-left: 1px solid #dbd4a0;
+}
+
+.joinus-top a {
+    border-radius: 9px 0 0 9px !important;
+    margin-left: 6px;
+    transition: 0.5s all ease-in-out;
+    border-right: 1px solid #6a845d;
+}
+
+.donate-top a:hover {
+    background: #6a845d !important;
+    border-right: 1px solid white;
+}
+
+.joinus-top a:hover {
+    background: #dbd4a0 !important;
+    border-right: 1px solid white;
+}
+
+.about-us-home ul {
+    list-style: none;
+    padding-right: 0;
+}
+
+.about-us-home ul li {
+    position: relative;
+    padding-right: 15px;
+}
+
+.about-us-home ul li:before {
+    content: '';
+    background: #6a845d;
+    width: 5px;
+    height: 5px;
+    position: absolute;
+    top: 50%;
+    display: block;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    right: 0;
+}
+
+.single-product .product-summary-wrap .description p {
+    font-size: 17px;
+    line-height: 35px;
+}
+
+.product-nav .product-link {
+    font-family: "porto" !important;
+}
+
+.single-product .product_title {
+    font-size: 25px;
+    line-height: 35px;
+    color: #6a845d;
+}
+
+.product-nav .product-link {
+    font-family: "porto" !important;
+}
+
+.single-product .product_title {
+    font-size: 25px;
+    line-height: 35px;
+    color: #6a845d;
+}
+
+span.woocommerce-Price-amount.amount {
+    position: relative;
+    font-size: 18px;
+    background: #6a845d;
+    color: #fff;
+    padding: 2px 5px;
+}
+
+
+.product-summary-wrap .single_add_to_cart_button:before {
+    content: "\f4c0";
+    font-family: 'Font Awesome 5 Free';
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+@media (min-width: 1156px) {
+    #header .logo {
+        margin-left: 70px;
+    }
+}
+
+#header .top-links {
+    margin-right: 30px;
+    margin-left: unset;
+}
+
+.product .nyp .nyp-input {
+    margin-bottom: 0;
+    font-family: 'cairo' !important;
+}
+
+.single_variation_wrap .nyp label:before {
+    content: 'حدد قيمة التبرع التي تريد إضافتها';
+    font-weight: 300;
+}
+span.from:before {content: 'بدئا ';}
+.owl-carousel.show-dots-title-right .owl-dots {
+    right: unset;
+}
+.gridlist-toggle>a{
+    font-family: "Porto" !important;
+}
+
+article.post .post-date, .post-item .post-date {
+
+    min-width:60px;
+}
+article.post h2 a, article.post h4 a {
+    font-weight: bold;
+}
+
+p.post-excerpt,
+article.post .post-meta
+ {
+    display: none;
+}
+
+.btn-default.btn {
+    border-color: #6a845d;
+    color: #fff;
+    background-color: #6a845d;
+    padding: 0.3rem 2rem;
+}
+
+.btn-default.btn:hover {
+    color: #000000;
+    background-color: #dbd4a0;
+}
+.input-group > .input-group-append > .btn, .input-group > .input-group-append > .input-group-text, .input-group > .input-group-prepend:not(:first-child) > .btn, .input-group > .input-group-prepend:not(:first-child) > .input-group-text, .input-group > .input-group-prepend:first-child > .btn:not(:first-child), .input-group > .input-group-prepend:first-child > .input-group-text:not(:first-child) {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-top-left-radius: unset;
+    border-bottom-left-radius: unset;
+}
+article.post-full .entry-title, article.post-large .entry-title {
+    font-size: 25px;
+}
+#header .header-top .header-contact, #header .header-top .header-contact a {
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+@media screen and (min-width: 768px){
+    span.almusand {
+    float: left;
+}
+}
+.creator-row ul {
+    list-style: none;
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+    padding-right: 10px;
+}
+
+
+
+.creator-row ul li {
+    position: relative;
+    line-height: 35px;
+    background: #f6f6f6;
+    margin-bottom: -8px;
+    padding: 9px;
+    padding-right: 25px;
+    overflow: hidden;
+}
+
+.creator-row ul li:before {content: '';width: 8px;height: 8px;background: #6b845e;position: absolute;top: 50%;display: block;-webkit-transform: translateY(-50%);-moz-transform: translateY(-50%);-ms-transform: translateY(-50%);transform: translateY(-50%);right: 10px;}
+
+.creator-row ul li:nth-child(odd) {
+    background: #e8e8e8;
+}
+@media screen and (min-width:600px) and (max-width:899px){
+.creator-row ul {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+
+}
+}
+
+@media screen and (max-width:599px){
+.creator-row ul {
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+    column-count: 1;
+
+}
+}
+.timeline-balloon .balloon-time .time-dot {
+    background: transparent !important;
+    margin-right: -4px;
+}
+
+.timeline-balloon .balloon-time .time-text {
+    width: 85px;
+    margin-right: -13px;
+    padding-right: 6px;
+    margin-left: 10px;
+    border-bottom: 1px dashed;
+}
+.balloon-content.background-color-light {
+    margin-right: 10px;
+    top: 6px;
+}
+span.modern-title {
+    visibility: hidden !important;
+}
+
+span.modern-title:before {content: 'اضغط هنا لارسال السيرة الذاتية';visibility: visible;position: absolute;right: 0;left: 0;margin: auto;font-weight: 500;}
+.vc_btn3.vc_btn3-color-grey {
+    padding: 1px 30px;
+}
+.new-sidebar-menu li:before {
+    display: none !important;
+}
+
+.new-sidebar-menu .sidebar-menu li{
+   border: 0 !important;
+   padding: 0;
+   border-bottom: 1px solid #e0e0e0 !important;
+}
+
+.new-sidebar-menu .sidebar-menu li a{
+     background: transparent !important;
+     border: 0;
+}
+
+.new-sidebar-menu ul {
+    background: #ffffff !important;
+}
+
+.new-sidebar-menu .sidebar-menu li:last-child {
+    border-bottom: none !important;
+}
+
+
+.new-sidebar-menu li.current-menu-item.page_item{
+    background:#6a845d
+
+}
+.new-sidebar-menu li.current-menu-item.page_item a{
+    color: #fff
+}
+@media screen and (max-width:1155px) and (min-width:992px){
+    #header .top-links > li.menu-item > a {
+    padding: 5px 5px !important;
+}
+#header .main-menu>li.menu-item>a {
+    font-size: 13px;
+    padding: 10px 4px 10px 5px !important;
+}
+}
+.review-list {
+    direction: rtl;
+    text-align: revert;
+}
+
+.ic_rev {
+    direction: rtl;
+    text-align: revert;
+}
+
+.ic_rev .review-left,.ic_rev .review-right {
+    float: right;
+}
+.review-avatar img {
+    margin-left: 8px;
+}

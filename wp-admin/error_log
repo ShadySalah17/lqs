@@ -1,0 +1,52 @@
+[06-Dec-2020 02:14:17 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 02:14:17 UTC] PHP Notice:  Trying to get property 'srs_visitors_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 02:14:17 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88
+[06-Dec-2020 02:14:17 UTC] PHP Notice:  Trying to get property 'srs_views_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88
+[06-Dec-2020 02:37:36 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 02:37:36 UTC] PHP Notice:  Trying to get property 'srs_visitors_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 02:37:36 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88
+[06-Dec-2020 02:37:36 UTC] PHP Notice:  Trying to get property 'srs_views_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88
+[06-Dec-2020 04:23:29 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 04:23:29 UTC] PHP Notice:  Trying to get property 'srs_visitors_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 04:23:29 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88
+[06-Dec-2020 04:23:29 UTC] PHP Notice:  Trying to get property 'srs_views_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88
+[06-Dec-2020 04:25:17 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 04:25:17 UTC] PHP Notice:  Trying to get property 'srs_visitors_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 04:25:17 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88
+[06-Dec-2020 04:25:17 UTC] PHP Notice:  Trying to get property 'srs_views_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88
+[06-Dec-2020 07:28:47 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 07:28:47 UTC] PHP Notice:  Trying to get property 'srs_visitors_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 07:28:47 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88
+[06-Dec-2020 07:28:47 UTC] PHP Notice:  Trying to get property 'srs_views_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88
+[06-Dec-2020 07:28:53 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 07:28:53 UTC] PHP Notice:  Trying to get property 'srs_visitors_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 07:28:53 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88
+[06-Dec-2020 07:28:53 UTC] PHP Notice:  Trying to get property 'srs_views_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88
+[06-Dec-2020 09:10:46 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 09:10:46 UTC] PHP Notice:  Trying to get property 'srs_visitors_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 09:10:46 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88
+[06-Dec-2020 09:10:46 UTC] PHP Notice:  Trying to get property 'srs_views_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88
+[06-Dec-2020 09:13:57 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 09:13:57 UTC] PHP Notice:  Trying to get property 'srs_visitors_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 09:13:57 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88
+[06-Dec-2020 09:13:57 UTC] PHP Notice:  Trying to get property 'srs_views_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88
+[06-Dec-2020 11:26:11 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 11:26:11 UTC] PHP Notice:  Trying to get property 'srs_visitors_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 11:26:11 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88
+[06-Dec-2020 11:26:11 UTC] PHP Notice:  Trying to get property 'srs_views_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88
+[06-Dec-2020 12:55:34 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 12:55:34 UTC] PHP Notice:  Trying to get property 'srs_visitors_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 12:55:34 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88
+[06-Dec-2020 12:55:34 UTC] PHP Notice:  Trying to get property 'srs_views_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88
+[06-Dec-2020 19:14:18 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 19:14:18 UTC] PHP Notice:  Trying to get property 'srs_visitors_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 19:14:18 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88
+[06-Dec-2020 19:14:18 UTC] PHP Notice:  Trying to get property 'srs_views_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88
+[06-Dec-2020 20:00:36 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 20:00:36 UTC] PHP Notice:  Trying to get property 'srs_visitors_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 20:00:36 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88
+[06-Dec-2020 20:00:36 UTC] PHP Notice:  Trying to get property 'srs_views_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88
+[06-Dec-2020 20:41:19 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 20:41:19 UTC] PHP Notice:  Trying to get property 'srs_visitors_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 87
+[06-Dec-2020 20:41:19 UTC] PHP Notice:  Undefined offset: 0 in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88
+[06-Dec-2020 20:41:19 UTC] PHP Notice:  Trying to get property 'srs_views_count' of non-object in /home/lqsorgsa/public_html/wp-content/plugins/srs-simple-hits-counter/SRS_Simple_Hits_Counter.php on line 88

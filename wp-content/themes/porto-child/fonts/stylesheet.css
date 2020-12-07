@@ -1,0 +1,55 @@
+/*
+Theme Name: 	Betheme Child
+Theme URI: 		http://themes.muffingroup.com/betheme
+Author: 		Muffin group
+Author URI: 	http://muffingroup.com
+Description:	Child Theme for Betheme - Premium WordPress Theme
+Template:		betheme
+Version: 		1.6.1.1
+*/
+
+/* Theme customization starts here
+-------------------------------------------------------------- */
+/* fonts */
+
+@font-face {
+    font-family: 'cairo';
+        src: url('fonts/Cairo-Regular.woff2') format('woff2'),
+        url('fonts/Cairo-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'cairo-b';
+        src: url('fonts/Cairo-Bold.woff2') format('woff2'),
+        url('fonts/fonts/fonts/Cairo-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+body,
+p,
+span,
+a , td , th, label , button, li, input, textarea{
+    font-family: 'cairo' !important;
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'cairo-b' !important;
+    letter-spacing: normal !important;
+}
+#wpadminbar .ab-icon, #wpadminbar .ab-item:before, #wpadminbar>#wp-toolbar>#wp-admin-bar-root-default .ab-icon, .wp-admin-bar-arrow {
+    font: normal 20px/1 dashicons !important;
+}
+
+/* end fonts */

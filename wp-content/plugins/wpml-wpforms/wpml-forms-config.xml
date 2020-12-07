@@ -1,0 +1,28 @@
+<forms>
+    <form name="wpforms">
+        <settings>
+            <property>form_title</property>
+            <property>form_desc</property>
+            <property>submit_text</property>
+            <property>submit_text_processing</property>
+            <property type="ARRAY" properties="message">confirmations</property>
+            <property type="ARRAY" properties="subject,message">notifications</property>
+        </settings>
+        <field>
+            <property>label</property>
+            <property>description</property>
+            <property>placeholder</property>
+            <property>simple_placeholder</property>
+            <property>simple_default</property>
+            <property>first_placeholder</property>
+            <property>first_default</property>
+            <property>middle_placeholder</property>
+            <property>middle_default</property>
+            <property>last_placeholder</property>
+            <property>last_default</property>
+            <property>confirmation_placeholder</property>
+            <property>default_value</property>
+            <property type="ARRAY" properties="label">choices</property>
+        </field>
+    </form>
+</forms>

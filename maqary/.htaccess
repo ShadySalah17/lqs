@@ -1,0 +1,40 @@
+
+RewriteEngine on
+
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule .*\.()$ - [F,NC]
+
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule .*\.()$ - [F,NC]
+RewriteCond %{HTTP_HOST} ^maqary\.lqs\.org\.sa$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maqary\.lqs\.org\.sa$
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^/?$ "http\:\/\/104\.40\.147\.216" [R=301,L]
+
+RewriteCond %{HTTP_REFERER} !^http://lqs.org.sa/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://lqs.org.sa$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://maqary.lqs.org.sa/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://maqary.lqs.org.sa$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.lqs.org.sa/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.lqs.org.sa$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.maqary.lqs.org.sa/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.maqary.lqs.org.sa$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://lqs.org.sa/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://lqs.org.sa$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://maqary.lqs.org.sa/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://maqary.lqs.org.sa$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.lqs.org.sa/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.lqs.org.sa$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.maqary.lqs.org.sa/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.maqary.lqs.org.sa$      [NC]
+RewriteRule .*\.(jpg|jpeg|gif|png|bmp)$ - [F,NC]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php73” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php73 .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
